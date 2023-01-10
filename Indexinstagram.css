@@ -1,0 +1,39 @@
+.input{
+    width: 268px;
+    height: 38px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.buttonbir{
+    width: 286px;
+    height: 38px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(68, 151, 179);
+    color:white;
+    margin: auto;
+}
+
+.boyukdiv{
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+
+}
+
+.sekiliki{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonbirdiv{
+    display: flex;
+    justify-content: center;
+}
+
+.ucludiv{
+    display: flex;
+    justify-content: center;
+}
